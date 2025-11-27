@@ -1,0 +1,7 @@
+{
+"id": 1,
+"title": "My first post (Updated)",
+"body": "Hello from Postman! Updated using PUT.",
+"userId": 1
+
+}
